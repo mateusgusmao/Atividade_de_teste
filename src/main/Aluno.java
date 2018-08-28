@@ -16,3 +16,4 @@ public class Aluno {
 		System.out.println(notas[i]);
 	}
 }
+//emy é linda
